@@ -6,8 +6,13 @@ Le projet avance bien
 
 Et toi de ton côté, ou tu en es
 
-titre: les fauves
+Titre: les pumas
 
-sous titre : les tigres
+Couleur: violet
 
-couleur fond: bleu
+Style police: time new roman
+
+Taille: 20px
+
+sous titre : les cougards
+
