@@ -6,3 +6,8 @@ Le projet avance bien
 
 Et toi de ton côté, ou tu en es
 
+titre: les fauves
+
+sous titre : les tigres
+
+couleur fond: bleu
