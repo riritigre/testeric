@@ -1,0 +1,18 @@
+Bonjour Riri !
+
+C'est moi
+
+Le projet avance bien
+
+Et toi de ton côté, ou tu en es
+
+Titre: les pumas
+
+Couleur: violet
+
+Style police: time new roman
+
+Taille: 20px
+
+sous titre : les cougards
+
